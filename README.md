@@ -34,4 +34,4 @@ A clean and responsive **Sidebar Navigation** component built using **HTML, CSS,
 
 🛡️ License
 MIT License — free to use and modify
-Made with 💙 by Sumi
+Made with 💙 by Sumit
