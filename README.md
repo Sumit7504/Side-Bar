@@ -29,7 +29,7 @@ A clean and responsive **Sidebar Navigation** component built using **HTML, CSS,
 > To include a screenshot, save it as `screenshot.png` in your folder and use:
 
 ```markdown
-![Sidebar UI](screenshot.png)
+![Sidebar UI](/SideBar/screenshot.png)
 ```
 
 🛡️ License
